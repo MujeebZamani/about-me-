@@ -1,0 +1,453 @@
+body {
+    background-color: #FAFAFA;
+}
+.header{
+    background-color: #FF7E67;
+    height: 160px;
+    width: 100%;
+    position: absolute;
+    top:0px;
+    left:0px;
+}
+
+.weblogo{
+    background-color: transparent;
+    position: absolute;
+    left:1210px;
+    top:0px;   
+    transition: transform 0.3s ease-in-out;
+    mix-blend-mode: screen;
+}
+.weblogo:hover{
+    transform: scale(1.2);
+}
+.whats{
+    background-color: transparent;
+    position: absolute;
+    left:1170px;
+    transition: transform 0.3s ease-in-out;
+}
+.whats:hover{
+    transform: scale(1.2) ;
+}
+
+.insta{
+    background-color: transparent;
+    position: absolute;
+    left:1130px;
+}
+
+.facebook {
+    background-color: transparent;
+    position: absolute;
+    left:1090px;
+}
+
+.line {
+    background-color: #FAFAFA;
+    height: 3px;
+    width: 100%;
+    position: absolute;
+    top: 120px;
+}
+
+.top-anchor {
+    color: #FAFAFA;
+    position: absolute;
+    top: 125px;
+    font-size: 24px;
+    font-style: italic;
+    transition: color 0.3s;
+    text-decoration: none;
+    font-family: "Doto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "ROND" 0;
+    
+      
+}
+
+.top-anchor:hover{
+    color: black; 
+    transform: scale(1.2);
+}
+
+.anchor-d{ 
+    left: 800px;
+    transition: color 0.3s;
+    transition: transform 1.5s;
+}
+
+.anchor-c{
+    left:675px;
+    transition: color 0.3s;
+    transition: transform 1.5s;
+}
+
+.anchor-b{
+    left: 550px;
+    transition: color 0.3s;
+    transition: transform 1.5s;
+}
+.anchor-a{
+    left: 375px;
+    transition: color 0.3s;
+    transition: transform 1.5s;
+}
+
+.mz-logo {
+    position: absolute;
+    left: 240px;
+    border: 10px solid #FF7E67;
+}
+
+.middle-div{
+    position: absolute;
+    top: 200px;
+}
+
+.header-name{
+    position: relative;
+    left: 450px;
+    top: -20px;
+    font-size: 50px;
+    color:#07689F;
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+p{
+position: relative;
+left: 450px;
+}
+
+h3{
+position: relative;
+left:450px;
+color:#FF7E67;
+font-family: "Edu AU VIC WA NT Pre", cursive;
+font-optical-sizing: auto;
+font-weight: <weight>;
+font-style: normal;
+
+}
+
+
+ul{
+position: relative;
+left:450px
+}
+
+.lang{
+    position: relative;
+    left: -400px;
+    top: 10px;
+}
+
+.my-photo{
+    position: absolute;
+    top:220px;
+    left:200px;
+}
+
+.my-photo-one{
+    height:250px;
+    border-radius:50%;
+
+}
+
+.my-photo-two {
+    height: 200px;
+    border-radius: 50%;
+    position: relative;
+    top: 450px;
+    left: 100px;
+}
+
+.udemy{ 
+    height: 150px;
+    position: relative;
+    top: 600px;
+    border-radius: 100%;
+}
+
+.pdemy {
+    top: 600px;
+    left: 210px;
+}
+
+.p-line{
+    height: 2px;
+    width: 190px;
+    background-color:#07689F;
+    position:absolute;
+    top:815px;
+    left:220px;
+    opacity: 50%;
+}
+
+.p-line-two{
+    height: 2px;
+    width: 190px;
+    background-color:#07689F;
+    position:absolute;
+    top:890px;
+    left:220px;
+    opacity: 50%;
+}
+
+.right-side{
+    position: absolute;
+    top: 450px;
+    left:950px;
+    height:100px;
+}
+
+.right-line {
+    background-color: #07689F;
+    height: 650px;
+    width: 5px;
+    position: relative;
+    top:-122px;
+    left: -90px;
+}
+
+.see {
+    position: relative;
+    left: -50px;
+    top: -790px;
+    font-size: 25px;
+}
+
+.elephant {
+    position: relative;
+    top:-790px;
+    left:-60px;
+}
+
+.random-txt {
+    position: relative;
+    top: -760px;
+    left: -170px;
+    font-size: 25px;
+    color:#07689F;
+    text-decoration: none;
+    transition: color 0.3s ;
+}
+
+.random-txt:hover{
+    color: #FF7E67;
+}
+
+.dice {
+    position: relative;
+    top: -750px;
+    left: -60px;
+}
+ 
+.randomtwo {
+    position: relative;
+    top: -720px;
+    left: -170px;
+    font-size: 25px;
+    color:#07689F;
+    text-decoration: none;
+    transition: color 0.3s ;
+}
+
+.randomtwo:hover{
+    color: #FF7E67;
+}
+
+
+.random {
+    position: relative;
+    top: -720px;
+    left: -61px;
+    
+}
+
+.randomthree {
+    position: relative;
+    top: -690px;
+    left: -170px;
+    font-size: 25px;
+    color:#07689F;
+    text-decoration: none;
+    transition: color 0.3s ;
+}
+
+.randomthree:hover{
+    color: #FF7E67;
+}
+
+
+.random-two {
+    position: relative;
+    top: -690px;
+    left: -62px;
+}
+
+.randomfour {
+    position: relative;
+    top: -660px;
+    left: -170px;
+    font-size: 25px;
+    bacolor:#07689F;
+    text-decoration: none;
+    transition: color 0.3s ;
+}
+
+.randomfour:hover{
+    color: #FF7E67;
+}
+
+footer{
+    position: relative;
+    top: 800px;
+}
+@media(max-width:500px)
+{
+    .weblogo{
+        left: 300px;
+    }
+
+    .insta {
+        left:340px;
+    }
+
+    .whats{
+        left:380px;
+    }
+
+    .snap{
+        left:420px;
+    }
+
+    .header{
+        width: 787px !important;
+        height: 220px !important;
+    }
+
+    .mz-logo{
+        left:310px !important;
+        top: 40px !important;
+    }
+
+    .top-anchor {
+        left: 20px;
+        top: 170px; 
+    }
+    .anchor-b{
+        left:230px
+    }
+    .anchor-c{
+        left:440px
+    }
+    .anchor-d{
+        left:590px
+    }
+
+    .my-photo-one{
+        width: 200px ;
+        height: 200px;
+        left:20px;
+    }
+
+    .my-photo-two{
+        width: 200px ;
+        height: 200px;
+        left:10px;
+    }
+
+    .udemy {
+        left: -190px 
+    }
+    .pdemy{
+        left: 20px;
+    }
+    .p-line{
+        left: 25px; 
+    }
+    .p-line-two{
+        left: 25px;
+    }
+
+    .header-name {
+        left: 250px;
+    }
+    p{
+        left: 250px;
+    }
+    h3{
+        left: 250px;
+    }
+
+    ul{
+        left: 250px;
+    }
+    .lang{
+        left: -210px;
+    }
+
+    .right-line{
+        left: -300px;
+        top:-100px
+    }
+    .see{
+        left: -910px;
+        top:-110px;
+        font-size: 20px;
+    }
+    .elephant{
+        left: -940px;
+        top:-130px;
+        height: 150px !important;
+    }
+    .dice{
+        left: -770px;
+        top:-310px;
+        height: 150px!important;
+        width: 150px !important;
+    }
+
+    .random{
+        left: -600px;
+        top:-490px;
+        height: 150px !important;
+        width: 150px;
+    }
+    .random-two{
+        left: -440px;
+        top:-670px;
+        height: 150px !important;
+        width: 150px;
+    }
+    .random-txt{
+        left: -900px;
+        top:-125px;
+        font-size: 20px;
+    }
+    .randomtwo{
+        left: -730px;
+        top:-300px;
+        font-size: 20px;
+    }
+    .randomthree{
+        left: -560px;
+        top:-475px;
+        font-size: 20px;
+    }
+    .randomfour{
+        left: -400px;
+        top:-647px;
+        font-size: 20px;
+    }
+
+    footer{
+        top: 1000px;
+    }
